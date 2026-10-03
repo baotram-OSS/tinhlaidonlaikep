@@ -9,7 +9,7 @@ st.set_page_config(
     layout="centered"
 )
 st.image("logo.jpg")
-st.title("💰 Máy tính lãi suất tiết kiệm")
+st.title("💰 Máy tính lãi suất tiết kiệm - Lê Ngọc Bảo Trâm")
 st.caption("Tính tiền lãi theo lãi đơn hoặc lãi kép")
 
 # =========================
