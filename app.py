@@ -8,6 +8,7 @@ st.set_page_config(
     page_icon="💰",
     layout="centered"
 )
+st.image("logo.jpg")
 st.title("💰 Máy tính lãi suất tiết kiệm")
 st.caption("Tính tiền lãi theo lãi đơn hoặc lãi kép")
 
